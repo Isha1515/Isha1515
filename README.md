@@ -34,5 +34,5 @@
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=F3F1EA)](https://www.linkedin.com/in/www.linkedin.com/in/isha-patel-529165295)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=F3F1EA)](https://www.linkedin.com/in/isha-patel-529165295)
 [![Email](https://img.shields.io/badge/Email-161616?style=for-the-badge&logo=gmail&logoColor=F3F1EA)](mailto:isha.p.3639@gmail.com)

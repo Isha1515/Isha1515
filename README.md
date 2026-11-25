@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Isha Patel: BSc AI and Data Science, Middlesex University Dubai. AI/ML, data analysis, full-stack web. Open to internships." width="100%">
+  <img src="assets/header-light.svg" alt="Isha Patel: BSc AI and Data Science, Middlesex University Dubai. AI/ML, data analysis, full-stack web." width="100%">
 </picture>
 
 ### Education
